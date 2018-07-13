@@ -3,6 +3,8 @@
 Day 3 Of Machine Learning Journey . 
 
 Watched a video that explained Tensorflow Framework . https://www.youtube.com/watch?v=2zWSr-3gkWY
+
+
 Day 2 Of Machine Learning Journey . 
 
 Studied Another Few Modules Of  https://ai.google/education/ . Completed Module of First Step Of TF , Generalization , Training and Testing Sets . 
